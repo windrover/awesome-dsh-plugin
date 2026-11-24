@@ -1,0 +1,6 @@
+url: https://github.com/sixzjd/dsh-folder-attach
+name: sixzjd/dsh-folder-attach
+category: ui
+description:
+  en: "Drag folders into the DSH web composer instead of hitting 'only the desktop app supports folders': a host folder dialog, a /folder command, and drag/paste into @path mentions. Works in both the browser and the desktop app."
+  zh: "把文件夹拖进 DSH 网页版输入框，不再受「只有桌面端支持文件夹」的限制：提供宿主文件夹选择对话框、/folder 命令，以及拖拽/粘贴成 @路径 引用；浏览器与桌面端都能用。"

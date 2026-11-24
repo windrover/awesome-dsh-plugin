@@ -1,0 +1,7 @@
+url: https://github.com/yingqi-studio/dsh-panel-compact
+name: yingqi-studio/dsh-panel-compact
+category: ui
+description:
+  en: 'Installing plugins eats the top of the sidebar: keep three panel entries visible, drag them into the order you want, and fold every other panel into a More menu — click a name to open it, ✓/＋ to decide whether it lives in the sidebar or in More. Order and choices persist in localStorage.'
+  zh: '插件装多了，侧栏的面板列表会把下面的工作区挤没：这里只留三个入口，鼠标拖动排序，其余全部收进「更多」菜单——点名字直接打开，✓/＋ 决定去留，顺序和选择记在 localStorage，重启后不变。'
+icon: https://raw.githubusercontent.com/yingqi-studio/dsh-panel-compact/main/assets/icon-180.png

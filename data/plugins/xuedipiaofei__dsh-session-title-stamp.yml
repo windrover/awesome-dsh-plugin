@@ -1,0 +1,7 @@
+url: https://github.com/xuedipiaofei/dsh-session-title-stamp
+name: xuedipiaofei/dsh-session-title-stamp
+category: session
+description:
+  en: "Hover a session to see duration, estimated cost and tokens; one-click Generate title from the header ↻ or menu keeps titles in DATE | CATEGORY | NAME, with a settings page for format and language."
+  zh: "悬停会话行就能看到耗时、估算费用和 token；会话头或菜单一键重新生成标题，保持「日期 | 分类 | 名称」格式；设置页可改格式和标题语言。"
+icon: https://raw.githubusercontent.com/xuedipiaofei/dsh-session-title-stamp/main/assets/icon-180.png

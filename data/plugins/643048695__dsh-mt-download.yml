@@ -1,0 +1,6 @@
+url: https://github.com/643048695/dsh-mt-download
+name: 643048695/dsh-mt-download
+category: tools
+description:
+  en: "Adds a download_file tool with 16-connection aria2c acceleration and automatic single-stream fallback. Timeouts no longer crash the host, temporary files stay isolated until success, connection counts are reported as measured, and the CA certificate bundle is loaded automatically. Needs aria2c installed separately."
+  zh: "新增 download_file 工具，用 16 路 aria2c 并发下载，失败自动退回单线程流式下载。超时不再让宿主崩溃，临时文件成功后才替换目标，连接数按实测回报，并自动加载证书。需自行安装 aria2c。"

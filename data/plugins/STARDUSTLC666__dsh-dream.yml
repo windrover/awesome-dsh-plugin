@@ -1,6 +1,7 @@
 url: https://github.com/STARDUSTLC666/dsh-dream
 name: STARDUSTLC666/dsh-dream
-category: session
+category: agi
+icon: https://raw.githubusercontent.com/STARDUSTLC666/dsh-dream/master/assets/plugin-icon.webp
 description:
-  en: 'Dreaming for agents: replay recent conversations between sessions (dream_digest), reflect and write a dream journal (dream_save/journal/recall), and idempotently bridge recurring lessons into AGENTS.md (dream_bridge). Reads multi-frame zstd session archives with privacy masking on by default; six tools including a health self-check; zero runtime dependencies.'
-  zh: DSH 做梦插件：agent 在会话间隙回放近期对话（dream_digest）、反思并写入梦境日记（dream_save/journal/recall），高频教训幂等桥接进 AGENTS.md（dream_bridge）。多帧 zstd 会话读取，默认隐私脱敏，六工具含健康自检，零运行时依赖。
+  en: 'Task experience-memory workbench, 9 dream_* tools and dream-protocol skill: extracts candidate lessons with source provenance after tasks, queues them for manual review (J/K/A/D shortcuts), recalls adopted lessons in relevant tasks, and previews or rolls back AGENTS.md rule changes; capture and recall have separate switches, with 5 switchable workbench themes.'
+  zh: '任务经验记忆工作台、9 个 dream_* 工具与 dream-protocol 技能：任务后提取带来源证据的候选经验，在待审阅队列核对范围与例外后手动采纳（支持 J/K/A/D 快捷键），在相关任务中召回已采纳经验，并支持 AGENTS.md 规则差异预览与回滚；整理与召回独立开关，内置 5 套工作台主题。'

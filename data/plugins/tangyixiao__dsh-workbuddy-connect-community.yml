@@ -1,0 +1,8 @@
+url: https://github.com/tangyixiao/dsh-workbuddy-connect-community
+name: tangyixiao/dsh-workbuddy-connect-community
+category: model
+description:
+  en: "Community-maintained WorkBuddy and WorkBuddy AI model provider using local desktop sign-in. Offers model discovery, per-model context settings, credit display, and bounded records of observed plugin usage. Version 0.1.26 supports DSH 0.2.1 and 0.2.2 RCs 1 through 5. It shares provider IDs with the original WorkBuddy bridge, so enable only one bridge."
+  zh: "沿用本机桌面登录的 WorkBuddy 与 WorkBuddy AI 模型提供方，支持模型发现、按模型选择上下文、额度显示及有界的插件用量观测。0.1.26 支持 DSH 0.2.1 和 0.2.2 各自的 rc.1 至 rc.5。与原版 WorkBuddy 桥共用 provider ID，请只启用一个桥。"
+tarball: https://github.com/tangyixiao/dsh-workbuddy-connect-community/releases/download/v0.1.26/dsh-workbuddy-connect-community-0.1.26.tgz
+icon: https://raw.githubusercontent.com/tangyixiao/dsh-workbuddy-connect-community/v0.1.26/assets/logo.webp

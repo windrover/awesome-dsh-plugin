@@ -1,0 +1,7 @@
+url: https://github.com/1010231693/dsh-auto-compaction/tree/master/packages/dsh-auto-compaction
+name: 1010231693/dsh-auto-compaction#dsh-auto-compaction
+category: session
+description:
+  en: 'A session auto-compaction plugin built for local models (compaction should also drop to seconds on cloud models): when idle it replaces the oldest history with a summary so the local engine never re-reads the whole history; the trigger point is adjustable, compaction can be rolled back at any time, and mid-task compaction can compress early when the remaining budget is low (off by default).'
+  zh: '本地模型友好的 DSH 会话自动压缩插件（理论上云端模型压缩时间也大大缩短为秒级）；空闲时用摘要替换最旧历史，避免本地模型全量 prefill；触发点可调，压缩后可随时回滚，任务中途也能按余量提前压缩（默认关闭）。'
+icon: https://raw.githubusercontent.com/1010231693/dsh-auto-compaction/master/docs/icon.png
